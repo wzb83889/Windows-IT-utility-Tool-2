@@ -1,6 +1,6 @@
 # Windows 企业IT信创系统信息采集工具
 
-> 当前版本：数智与信息化发展部 V1.2.0  
+> 当前版本： V1.2.0  
 > 运行平台：Windows / .NET Framework 4.8  
 > 项目类型：Visual Studio Console Application
 
