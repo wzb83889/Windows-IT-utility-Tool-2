@@ -97,7 +97,7 @@
 ### 默认 WebDAV 配置
 
 ```text
-默认 WebDAV 地址: http://192.168.2.252:19000/DeviceReports
+默认 WebDAV 地址: http://WebDAV服务器内网IP/DeviceReports
 默认账号: debug
 密码: 运行时输入，不在本地持久化保存
 ```
