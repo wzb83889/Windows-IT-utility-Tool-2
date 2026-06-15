@@ -216,6 +216,14 @@ bin\Debug\SystemInfoDebug.exe
 ```text
 模块: 42.0% [████████████░░░░░░░░░░░░]
 ```
+<img width="1280" height="720" alt="幻灯片1" src="https://github.com/user-attachments/assets/5883beea-4e81-49b2-b06c-4860ce3b2268" />
+
+<img width="1280" height="720" alt="幻灯片2" src="https://github.com/user-attachments/assets/9a099de8-c478-4fce-9f53-2e6fcac8ca44" />
+
+<img width="1280" height="720" alt="幻灯片3" src="https://github.com/user-attachments/assets/d2274406-a34d-440b-938a-c4934231b7fb" />
+
+<img width="1280" height="720" alt="幻灯片4" src="https://github.com/user-attachments/assets/bbf7a307-8f9c-4dbd-8b77-ac67f4e847bf" />
+
 
 ## 注意事项
 
